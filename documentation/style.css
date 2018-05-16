@@ -5,7 +5,8 @@ header{
     background-color: rgb(43,62,133);
     color: white;
     font-family: serif;
-    padding: 10px;
+    font-size: 26pt;
+    padding: 16px;
     margin: 0;
 }
 body{
@@ -38,6 +39,7 @@ ul{
 a:hover{
     background-color: rgb(85, 95, 96);
     color: white;
+    padding: 20px;
 }
 ul.body{
     list-style-type: circle;
