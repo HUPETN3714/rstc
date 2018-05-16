@@ -26,7 +26,7 @@ ul{
     padding: 0;
     background-color: rgb(236,237,233);
 }
-li{
+.nav li{
     margin-left: auto;
     margin-right: auto;
     display: inline;
