@@ -5,10 +5,12 @@ header{
     background-color: rgb(43,62,133);
     color: white;
     font-family: serif;
+    padding: 10px;
+    margin: 5px;
 }
 li{
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "myriad-pro";
     font-size: 16pt;
 }
 body{
@@ -16,6 +18,9 @@ body{
 }
 ul{
     background-color: rgb(236,237,233);
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
 }
 .nav{
     display: flex;
@@ -36,16 +41,16 @@ ul.body{
 }
 h1{
     color: rgb(85, 95, 96);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "myriad-pro";
     font-size: 28pt;
 }
 h2{
     color: rgb(43,62,133);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "myriad-pro";
     font-size: 20pt;
 }
 p{
     color: rgb(#404041);
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "myriad-pro";
     font-size: 14pt;
 }
