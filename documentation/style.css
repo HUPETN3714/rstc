@@ -70,3 +70,7 @@ table{
     display: flex;
     justify-content: center;
 }
+.english{
+    display: flex;
+    justify-content: flex-start;
+}
