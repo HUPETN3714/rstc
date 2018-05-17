@@ -33,7 +33,6 @@ ul{
     display: inline;
     color: black;
     padding: 14px 100px;
-    text-decoration:none;
     font-size: 18pt;
 }
 a:hover{
@@ -73,6 +72,10 @@ table{
 .english{
     display: flex;
     justify-content: flex-start;
+}
+.computer{
+    display: flex;
+    justify-content: flex-end;
 }
 form{
     display: block;
