@@ -73,8 +73,9 @@ table{
     justify-content: flex-start;
 }
 .computer{
-    display: flex;
-    justify-content: flex-end;
+    display: block;
+    position: relative;
+    float: right;
 }
 form{
     display: block;
