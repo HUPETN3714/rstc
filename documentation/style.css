@@ -35,13 +35,13 @@ ul{
     padding: 14px 100px;
     font-size: 18pt;
 }
+.body ul{
+    list-style: circle;
+}
 a:hover{
     background-color: rgb(85, 95, 96);
     color: white;
     padding: 0,20px,0,20px;
-}
-ul.body{
-    list-style-type: circle;
 }
 h1{
     color: rgb(85, 95, 96);
