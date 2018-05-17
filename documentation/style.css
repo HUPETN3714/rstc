@@ -74,3 +74,37 @@ table{
     display: flex;
     justify-content: flex-start;
 }
+form{
+    display: block;
+    font-size: 18pt;
+    width:15em;
+    height:450px;
+    padding: 10px;
+    text-align: right;
+    position: relative;
+    margin: 20px;
+    background-color: lightgray;
+    border-radius: 15px;
+}
+input[type=submit]{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 100px;
+    font-size: 18pt;
+}
+input[type=text]{
+    width: 200px;
+    height: 30px;
+    padding: 10px;
+    margin: 5px;
+}
+textarea{
+    width: 300px;
+    height: 200px;
+}
+label{
+    margin:5px;
+    padding: 10px;
+}
