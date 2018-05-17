@@ -64,8 +64,9 @@ td{
     width: 300px;
     height: 100px;;
     text-align: left;
-    padding: 2px;
 }
 table{
     border-collapse: collapse;
+    display: flex;
+    justify-content: center;
 }
